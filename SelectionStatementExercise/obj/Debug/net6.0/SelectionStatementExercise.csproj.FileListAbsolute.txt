@@ -1,0 +1,15 @@
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.exe
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.deps.json
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.runtimeconfig.json
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.dll
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\bin\Debug\net6.0\SelectionStatementExercise.pdb
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.AssemblyReference.cache
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfoInputs.cache
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.AssemblyInfo.cs
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.csproj.CoreCompileInputs.cache
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.dll
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\refint\SelectionStatementExercise.dll
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.pdb
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\SelectionStatementExercise.genruntimeconfig.cache
+C:\Users\eran rotem\Desktop\repo\Selection-Statements-Exercise\SelectionStatementExercise\obj\Debug\net6.0\ref\SelectionStatementExercise.dll
